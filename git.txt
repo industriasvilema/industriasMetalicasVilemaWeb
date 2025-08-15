@@ -1,0 +1,19 @@
+echo "# industriasVilemaWeb" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/industriasvilema/industriasVilemaWeb.git
+git push -u origin main
+
+
+/// 2
+
+
+echo "# industriasMetalicasVilemaWeb" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/industriasvilema/industriasMetalicasVilemaWeb.git
+git push -u origin main
